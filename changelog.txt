@@ -1,0 +1,51 @@
+Version 2.12.10 - 12 Mission for ARMA 3 Beta<br/><br/>
+
+v 2.12.10 <br/><br/>
+//- Removed UPSMON, for new lighter patrol script <br/><br/>
+- Added BTC AI control skill for the missed UPSMON <br/><br/>
+- Reduced the AI skill respect the maximum value <br/><br/>
+- Fixed and performed some mission <br/><br/>
+- New control script for Convoy mission :-D <br/><br/>
+- New script to control spawning of patrols units, make mission lighter <br/><br/>
+- General improvements to increase FPS <br/><br/>
+- V.A.S. is now optional for future game update that could broken some script <br/><br/>
+- Added script version of TPWCAS AI suppression system, require @CBA <br/><br/>
+- Change of some markers <br/><br/>
+- Added/fixed miss weapons, ammo, clotes, helmets for the client side ammobox <br/><br/>
+- New client side script to quickly pickup standard rifles for NATO and AAS factions <br/><br/>
+- New spawning behaviour to avoid enemy and vehicle at base to spawn in front of player <br/><br/>
+- Script for change suit now keep your weapons and ammo <br/><br/>
+
+
+v 2.12.9 <br/><br/>
+- Rewrite of tasks with ArmA 3 new taskhint system<br/><br/>
+- Added fast time parameter
+- Added new Beta vehicle's/units and weapons (V.A.S.)<br/><br/>
+- Added AA base defend<br/><br/>
+- Added base alarm for enemy presence<br/><br/>
+- Added Base flag Halo Jump<br/><br/>
+- Added Reapir/Rearm area for any vehicles<br/><br/>
+- Replaced mission 4 with a new one<br/><br/>
+- V.A.S. updated<br/><br/>
+
+v 1.12.8 never released<br/><br/>
+- Added 3 missions<br/><br/>
+- Added Field Hospital for complete soldiers heal<br/><br/>
+- Added Vehicle/Helicopter repair area<br/><br/>
+- Added halogen lamps on some places<br/><br/>
+- Correction on some mission<br/><br/>
+- Cuted decimal from Deepmeter<br/><br/>
+- Rewrite of tasks<br/><br/>
+- Added Virtual Ammobox System<br/><br/>
+- Added anti-theft vehicle script fot AI, only human player can enter vehicles<br/><br/>
+- Added weather parameters and Dynamic Weather by Enigma<br/><br/>
+- Added base protection units<br/><br/>
+- Added Norrin Heli taxi script<br/><br/>
+- Fixed some missing magazines (DIVERS)<br/><br/>
+- Fixed some translations<br/><br/>
+- Fixed some markers<br/><br/>
+- Fixed some missions issue<br/><br/>
+- Reduced probability presence of granadier soldiers<br/><br/>
+
+v 1.9.5<br/><br/>
+- Official release<br/><br/>

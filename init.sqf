@@ -23,7 +23,7 @@ call compile preprocessFile "BTC_definitions.sqf";
 call compile preprocessFile "BTC_definitionsAmmo.sqf";
 
 //BTC Logistic & Revive 
-_spwn = [] spawn {sleep 10; call compile preprocessFile "=BTC=_revive\=BTC=_revive_init.sqf";diag_log (format["MISSION INIT =BTC=_revive_init.sqf INIT DONE"]);}; 
+///_spwn = [] spawn {sleep 10; call compile preprocessFile "=BTC=_revive\=BTC=_revive_init.sqf";diag_log (format["MISSION INIT =BTC=_revive_init.sqf INIT DONE"]);}; 
 _spwn = [] spawn {sleep 10; call compile preprocessFile "=BTC=_Logistic\=BTC=_Logistic_Init.sqf";diag_log (format["MISSION INIT BTC_Logistic_Init.sqf INIT DONE"]);}; 
 
 //Init server & client

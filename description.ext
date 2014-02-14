@@ -45,7 +45,7 @@ class RscTitles
 #include "BTC_intro.h"
 #include "=BTC=_Logistic\=BTC=_Lift\=BTC=_Hud.h"
 };
-#include "=BTC=_revive\=BTC=_respawn.h"
+//#include "=BTC=_revive\=BTC=_respawn.h"
 //////////////// Logistic \\\\\\\\\\\\\\\
 
 
